@@ -4,7 +4,7 @@ let barDown = false;
 let barLocked = false;
 let barKey = "q"; // change hotkeys by changing these variables
 let launchKey = "l" // |
-let lockKey = "/"; // |
+let lockKey = " "; // |
 
 function gearBarPosLock() {
  if (barLocked) {
